@@ -16,6 +16,10 @@ public class AddressBook {
         addressBook.addBuddy(buddy);
         addressBook.removeBuddy(buddy);
     }
+
+    public void testGitLab1(){
+        System.out.println("Suc 1");
+    }
 }
 
 

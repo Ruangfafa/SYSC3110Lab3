@@ -49,5 +49,7 @@ public class BuddyInfo {
         address = iAddress;
         phoneNumber = iPhoneNumber;
     }
-
+    public void testGitLab2(){
+        System.out.println("Suc 2");
+    }
 }
